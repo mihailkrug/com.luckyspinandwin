@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lucky Spin</string>
+    <string name="facebook_app_id">2293022967668677</string>
+
+    <string name="_1000">1000</string>
+    <string name="_100">100</string>
+    <string name="_500">500</string>
+    <string name="_50">50</string>
+    <string name="select_your_bet">Select your bet :</string>
+    <string name="new_game">New Game</string>
+    <string name="exit">Exit</string>
+</resources>
