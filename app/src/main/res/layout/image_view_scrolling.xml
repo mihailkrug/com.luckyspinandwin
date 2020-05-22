@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/current_image"
         android:background="@drawable/blak_boder"
-        android:src="@drawable/a_1"
+        android:src="@drawable/bar"
         />
 
     <ImageView
@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/blak_boder"
         android:id="@+id/next_image"
-        android:src="@drawable/a_1"
+        android:src="@drawable/bar"
         />
 
 </FrameLayout>

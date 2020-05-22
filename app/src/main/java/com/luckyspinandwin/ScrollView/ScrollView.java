@@ -81,13 +81,13 @@ public class ScrollView extends FrameLayout {
 
     private void setImage(ImageView image_view, int value) {
         if(value == SLOT1){
-            image_view.setImageResource(R.drawable.a_1);
+            image_view.setImageResource(R.drawable.bar);
         }else if(value == SLOT2){
             image_view.setImageResource(R.drawable.a_2);
         }else if(value == SLOT3){
             image_view.setImageResource(R.drawable.a_3);
         }else if(value == SLOT4){
-            image_view.setImageResource(R.drawable.a_4);
+            image_view.setImageResource(R.drawable.seven);
         }else if(value == SLOT5){
             image_view.setImageResource(R.drawable.a_5);
         }else if(value == SLOT7){
